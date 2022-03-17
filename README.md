@@ -28,3 +28,10 @@ The PSI for each manufacturing lot is not very statistically different from the 
 The p-value is not low enough for us to reject the null hypothesis for Lot 1 (p-value=1) and 2(p-value=0.6072), but it is for Lot 3 (p-value= 0.04168).
 
 ![image](https://user-images.githubusercontent.com/93055450/158884636-83b89d76-82c6-49fa-a5f3-9caea9843c86.png)
+
+### Study Design: MechaCar vs Competition
+A statistical study comparing the MechaCar vs another competing car could include metrics such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+- An example null hypothesis could be that the safety rating of both cars are the same.
+- We could use a two-sample t-test to determine whether the mean of the safety rating of the 2 cars are statistically different.
+- Safety rating info for both the MechaCar and the competition car would be required for this test.
